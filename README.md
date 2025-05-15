@@ -9,8 +9,7 @@ This is a simple and responsive **Login Page** built using HTML and CSS. It's de
 
 ## 📸 Preview
 
-![Login Page Screenshot](screenshot.png)  
-*(Add a screenshot named `screenshot.png` in your repo folder if you'd like it to show here)*
+![Login Page Screenshot]
 ![login](https://github.com/user-attachments/assets/4db22639-2081-4c7f-a163-6ac982aaf568)
 
 ---
